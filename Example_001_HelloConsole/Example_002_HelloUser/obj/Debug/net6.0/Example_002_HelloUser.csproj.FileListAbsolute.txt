@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/Examples GB C#/Example_001_HelloConsole/Example_002_HelloUser/bin/Debug/net6.0/Example_002_HelloUser
+/Users/macbookpro/Desktop/Examples GB C#/Example_001_HelloConsole/Example_002_HelloUser/bin/Debug/net6.0/Example_002_HelloUser.deps.json
+/Users/macbookpro/Desktop/Examples GB C#/Example_001_HelloConsole/Example_002_HelloUser/bin/Debug/net6.0/Example_002_HelloUser.runtimeconfig.json
+/Users/macbookpro/Desktop/Examples GB C#/Example_001_HelloConsole/Example_002_HelloUser/bin/Debug/net6.0/Example_002_HelloUser.dll
+/Users/macbookpro/Desktop/Examples GB C#/Example_001_HelloConsole/Example_002_HelloUser/bin/Debug/net6.0/Example_002_HelloUser.pdb
+/Users/macbookpro/Desktop/Examples GB C#/Example_001_HelloConsole/Example_002_HelloUser/obj/Debug/net6.0/Example_002_HelloUser.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/Examples GB C#/Example_001_HelloConsole/Example_002_HelloUser/obj/Debug/net6.0/Example_002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/Examples GB C#/Example_001_HelloConsole/Example_002_HelloUser/obj/Debug/net6.0/Example_002_HelloUser.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/Examples GB C#/Example_001_HelloConsole/Example_002_HelloUser/obj/Debug/net6.0/Example_002_HelloUser.AssemblyInfo.cs
+/Users/macbookpro/Desktop/Examples GB C#/Example_001_HelloConsole/Example_002_HelloUser/obj/Debug/net6.0/Example_002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/Examples GB C#/Example_001_HelloConsole/Example_002_HelloUser/obj/Debug/net6.0/Example_002_HelloUser.dll
+/Users/macbookpro/Desktop/Examples GB C#/Example_001_HelloConsole/Example_002_HelloUser/obj/Debug/net6.0/refint/Example_002_HelloUser.dll
+/Users/macbookpro/Desktop/Examples GB C#/Example_001_HelloConsole/Example_002_HelloUser/obj/Debug/net6.0/Example_002_HelloUser.pdb
+/Users/macbookpro/Desktop/Examples GB C#/Example_001_HelloConsole/Example_002_HelloUser/obj/Debug/net6.0/Example_002_HelloUser.genruntimeconfig.cache
+/Users/macbookpro/Desktop/Examples GB C#/Example_001_HelloConsole/Example_002_HelloUser/obj/Debug/net6.0/ref/Example_002_HelloUser.dll
