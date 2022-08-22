@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_006_Weight/bin/Debug/net6.0/Example_006_Weight
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_006_Weight/bin/Debug/net6.0/Example_006_Weight.deps.json
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_006_Weight/bin/Debug/net6.0/Example_006_Weight.runtimeconfig.json
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_006_Weight/bin/Debug/net6.0/Example_006_Weight.dll
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_006_Weight/bin/Debug/net6.0/Example_006_Weight.pdb
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_006_Weight/obj/Debug/net6.0/Example_006_Weight.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_006_Weight/obj/Debug/net6.0/Example_006_Weight.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_006_Weight/obj/Debug/net6.0/Example_006_Weight.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_006_Weight/obj/Debug/net6.0/Example_006_Weight.AssemblyInfo.cs
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_006_Weight/obj/Debug/net6.0/Example_006_Weight.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_006_Weight/obj/Debug/net6.0/Example_006_Weight.dll
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_006_Weight/obj/Debug/net6.0/refint/Example_006_Weight.dll
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_006_Weight/obj/Debug/net6.0/Example_006_Weight.pdb
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_006_Weight/obj/Debug/net6.0/Example_006_Weight.genruntimeconfig.cache
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_006_Weight/obj/Debug/net6.0/ref/Example_006_Weight.dll
