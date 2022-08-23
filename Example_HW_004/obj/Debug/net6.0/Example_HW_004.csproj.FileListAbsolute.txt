@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_HW_004/bin/Debug/net6.0/Example_HW_004
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_HW_004/bin/Debug/net6.0/Example_HW_004.deps.json
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_HW_004/bin/Debug/net6.0/Example_HW_004.runtimeconfig.json
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_HW_004/bin/Debug/net6.0/Example_HW_004.dll
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_HW_004/bin/Debug/net6.0/Example_HW_004.pdb
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_HW_004/obj/Debug/net6.0/Example_HW_004.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_HW_004/obj/Debug/net6.0/Example_HW_004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_HW_004/obj/Debug/net6.0/Example_HW_004.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_HW_004/obj/Debug/net6.0/Example_HW_004.AssemblyInfo.cs
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_HW_004/obj/Debug/net6.0/Example_HW_004.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_HW_004/obj/Debug/net6.0/Example_HW_004.dll
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_HW_004/obj/Debug/net6.0/refint/Example_HW_004.dll
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_HW_004/obj/Debug/net6.0/Example_HW_004.pdb
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_HW_004/obj/Debug/net6.0/Example_HW_004.genruntimeconfig.cache
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_HW_004/obj/Debug/net6.0/ref/Example_HW_004.dll
