@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_ArrayLibrary/obj/Debug/net6.0/Example_Lesson2_ArrayLibrary.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_ArrayLibrary/obj/Debug/net6.0/Example_Lesson2_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_ArrayLibrary/obj/Debug/net6.0/Example_Lesson2_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_ArrayLibrary/obj/Debug/net6.0/Example_Lesson2_ArrayLibrary.AssemblyInfo.cs
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_ArrayLibrary/obj/Debug/net6.0/Example_Lesson2_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_ArrayLibrary/bin/Debug/net6.0/Example_Lesson2_ArrayLibrary
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_ArrayLibrary/bin/Debug/net6.0/Example_Lesson2_ArrayLibrary.deps.json
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_ArrayLibrary/bin/Debug/net6.0/Example_Lesson2_ArrayLibrary.runtimeconfig.json
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_ArrayLibrary/bin/Debug/net6.0/Example_Lesson2_ArrayLibrary.dll
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_ArrayLibrary/bin/Debug/net6.0/Example_Lesson2_ArrayLibrary.pdb
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_ArrayLibrary/obj/Debug/net6.0/Example_Lesson2_ArrayLibrary.dll
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_ArrayLibrary/obj/Debug/net6.0/refint/Example_Lesson2_ArrayLibrary.dll
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_ArrayLibrary/obj/Debug/net6.0/Example_Lesson2_ArrayLibrary.pdb
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_ArrayLibrary/obj/Debug/net6.0/Example_Lesson2_ArrayLibrary.genruntimeconfig.cache
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_ArrayLibrary/obj/Debug/net6.0/ref/Example_Lesson2_ArrayLibrary.dll
