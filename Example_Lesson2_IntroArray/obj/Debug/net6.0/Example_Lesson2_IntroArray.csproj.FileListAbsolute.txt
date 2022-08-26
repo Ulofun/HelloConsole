@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_IntroArray/bin/Debug/net6.0/Example_Lesson2_IntroArray
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_IntroArray/bin/Debug/net6.0/Example_Lesson2_IntroArray.deps.json
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_IntroArray/bin/Debug/net6.0/Example_Lesson2_IntroArray.runtimeconfig.json
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_IntroArray/bin/Debug/net6.0/Example_Lesson2_IntroArray.dll
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_IntroArray/bin/Debug/net6.0/Example_Lesson2_IntroArray.pdb
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_IntroArray/obj/Debug/net6.0/Example_Lesson2_IntroArray.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_IntroArray/obj/Debug/net6.0/Example_Lesson2_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_IntroArray/obj/Debug/net6.0/Example_Lesson2_IntroArray.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_IntroArray/obj/Debug/net6.0/Example_Lesson2_IntroArray.AssemblyInfo.cs
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_IntroArray/obj/Debug/net6.0/Example_Lesson2_IntroArray.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_IntroArray/obj/Debug/net6.0/Example_Lesson2_IntroArray.dll
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_IntroArray/obj/Debug/net6.0/refint/Example_Lesson2_IntroArray.dll
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_IntroArray/obj/Debug/net6.0/Example_Lesson2_IntroArray.pdb
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_IntroArray/obj/Debug/net6.0/Example_Lesson2_IntroArray.genruntimeconfig.cache
+/Users/macbookpro/Desktop/geekbrains/Examples GB C#/Example_Lesson2_IntroArray/obj/Debug/net6.0/ref/Example_Lesson2_IntroArray.dll
